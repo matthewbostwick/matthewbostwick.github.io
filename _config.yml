@@ -5,7 +5,7 @@ description:        "Welcome to my personal site. Stay tuned for infrequent upda
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile.jpeg'
-background:         'assets/img/sunset.jpeg'
+background:         'assets/img/desert.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://matthewbostwick.github.io/
