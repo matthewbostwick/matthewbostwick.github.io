@@ -12,5 +12,5 @@ comments: false
     https://matthewbostwick.github.io/assets/img/dogspapersofa.jpg
     https://matthewbostwick.github.io/assets/img/Matthew+Kelsey-737.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Photo #2 by https://rickcortezphotography.com/" cols=2 %}
 
